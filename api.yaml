@@ -1,0 +1,7 @@
+vt_api:
+    vt_api_key: xxx
+abuseidb_api: 
+    abuseidb_api_key: xxx
+mandiant_api:
+    publickey: xxx
+    privatekey: xxx
